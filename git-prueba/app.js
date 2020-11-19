@@ -1,1 +1,1 @@
-console.log('Me falto algo acá');
+console.log('No hay memes, admin en coma');
